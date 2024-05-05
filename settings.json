@@ -84,4 +84,13 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
     "workbench.colorTheme": "Solarized Light",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.stickyScroll.enabled": true,
+    "workbench.activityBar.location": "hidden",
+    "window.customTitleBarVisibility": "windowed",
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "workbench.statusBar.visible": false,
 }
